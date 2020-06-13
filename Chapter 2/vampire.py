@@ -1,3 +1,7 @@
+# vampire.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 name = 'Carol'
 age = 3000
 

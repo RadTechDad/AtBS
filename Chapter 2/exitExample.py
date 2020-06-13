@@ -1,3 +1,7 @@
+# exitExample.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 import sys
 
 while True:

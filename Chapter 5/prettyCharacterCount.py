@@ -1,3 +1,7 @@
+# prettyCharacterCount.py
+# AtBS - Chapter 5
+# Code by Darrell Dudics
+
 import pprint
 
 message = 'It was a bright cold day in April, and the clocks were striking thirteen.'

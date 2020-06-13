@@ -1,3 +1,7 @@
+# commaCode.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 def commatize(list):
   listLength = len(list)
   if listLength == 0:

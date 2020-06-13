@@ -1,3 +1,7 @@
+# characterCount.py
+# AtBS - Chapter 5
+# Code by Darrell Dudics
+
 message = 'It was a bright cold day in April, and the clocks were striking thirteen.'
 count = {}
 

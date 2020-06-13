@@ -1,3 +1,7 @@
+# collatz.py
+# AtBS - Chapter 3
+# Code by Darrell Dudics
+
 def isEven(number):
   return not int(number) % 2  
 

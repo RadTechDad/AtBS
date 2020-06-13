@@ -1,3 +1,7 @@
+# pictureGrid.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['O', 'O', 'O', 'O', '.', '.'],

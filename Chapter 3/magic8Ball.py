@@ -1,3 +1,7 @@
+# magic8Ball.py
+# AtBS - Chapter 3
+# Code by Darrell Dudics
+
 import random
 
 def getAnswer(answerNumber):

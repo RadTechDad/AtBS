@@ -1,3 +1,7 @@
+# magic8Ball2.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 import random
 
 messages = [

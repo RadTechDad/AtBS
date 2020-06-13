@@ -1,3 +1,7 @@
+# conway.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 # Conway's Game of Life
 import random, time, copy
 

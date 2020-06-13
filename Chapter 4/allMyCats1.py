@@ -1,3 +1,7 @@
+# allMyCats1.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 print('Enter the name of cat 1:')
 catName1 = input()
 print('Enter the name of cat 2:')

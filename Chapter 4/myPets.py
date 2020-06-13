@@ -1,3 +1,7 @@
+# myPets.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 myPets = ['Zophie', 'Pooka', 'Fat-tail']
 print('Enter a pet name:')
 name = input()

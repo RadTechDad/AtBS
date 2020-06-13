@@ -1,3 +1,7 @@
+# rpsGame.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 import random, sys
 
 print('ROCK, PAPER, SCISSORS')

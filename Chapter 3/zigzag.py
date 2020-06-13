@@ -1,3 +1,7 @@
+# zigzag.py
+# AtBS - Chapter 3
+# Code by Darrell Dudics
+
 import time, sys
 
 indent = 0 # How many spaces to indent

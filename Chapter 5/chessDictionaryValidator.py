@@ -1,3 +1,7 @@
+# chessDictionaryValidator.py
+# AtBS - Chapter 5
+# Code by Darrell Dudics
+
 MAX_PIECES = 16
 
 validChessPieces = {

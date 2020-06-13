@@ -1,3 +1,7 @@
+# guessTheNumber.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 # This is a guess the number game
 
 import random

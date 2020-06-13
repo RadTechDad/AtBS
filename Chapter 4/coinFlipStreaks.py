@@ -1,3 +1,7 @@
+# coinFlipStreaks.py
+# AtBS - Chapter 4
+# Code by Darrell Dudics
+
 import random
 
 COINFLIPS = 100

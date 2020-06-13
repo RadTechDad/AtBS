@@ -1,3 +1,7 @@
+# ticTacToe.py
+# AtBS - Chapter 5
+# Code by Darrell Dudics
+
 theBoard = {
   'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
   'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',

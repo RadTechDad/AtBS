@@ -1,3 +1,7 @@
+# swordfish.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 while True:
 	print('Who are you?')
 	name = input()

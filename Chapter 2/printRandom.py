@@ -1,3 +1,7 @@
+# printRandom.py
+# AtBS - Chapter 2
+# Code by Darrell Dudics
+
 import random
 
 for i in range(5):
